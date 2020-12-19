@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "title": "TEST POST",
+      "content": "POTATO",
+      "id": 1
+    },
+    {
+      "title": "tyutyasda",
+      "content": "tyutyu",
+      "id": 2
+    },
+    {
+      "title": "foruthr",
+      "content": "afds",
+      "id": 4
+    }
+  ]
+}
